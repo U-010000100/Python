@@ -1,3 +1,5 @@
+# Delay Module
+## Created to add a time lap in between the code
 '''Methods to add a time lap of :-\n
 -----------------------------------\n
 Quarter Second (1/4 or 0.25 seconds)
